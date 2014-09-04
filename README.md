@@ -6,7 +6,7 @@
 
 Postdawn is a minimal Sublime Text theme and a syntax color scheme. It was originally just a slightly tweaked version of the [Predawn](https://github.com/paulstraw/predawn) theme. I decided to keep going with customization, so I changed the theme name to Postdawn and lets see how it goes. As the previous themers, I owe a lot to Predawn, Flatland and Soda. Thanks guys, you are amazing !
 
-![image](screenshots/screenshot.png)
+![image](screenshots/screenshot_new.png)
 
 [View a larger screenshot](https://raw.github.com/douglas/postdawn/master/screenshots/screenshot_new.png)
 
