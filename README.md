@@ -2,6 +2,14 @@
 
 ### A dark interface and syntax theme for [Sublime Text](https://sublime.wbond.net/packages/Postdawn).
 
+## TODO
+
+- [x] Update theme from Predawn to Postdawn
+- [x] Prefix the theme settings with postdawn_
+- [ ] Update all the screenshots
+- [ ] Send to Show Hackernews to receive feedback
+- [ ] Profit !
+
 ## About
 
 Postdawn is a minimal Sublime Text theme and a syntax color scheme. It was originally just a slightly tweaked version of the [Predawn](https://github.com/paulstraw/predawn) theme. I decided to keep going with customization, so I changed the theme name to Postdawn and lets see how it goes. As the previous themers, I owe a lot to Predawn, Flatland and Soda. Thanks guys, you are amazing !
