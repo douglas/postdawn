@@ -6,6 +6,8 @@
 
 - [x] Update theme from Predawn to Postdawn
 - [x] Prefix the theme settings with postdawn_
+- [ ] Change the package name to "Theme - Postdawn"
+- [ ] Add Postdawn to Package Control
 - [ ] Update all the screenshots
 - [ ] Send to Show Hackernews to receive feedback
 - [ ] Profit !
