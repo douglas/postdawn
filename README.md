@@ -8,7 +8,7 @@ Postdawn is a minimal Sublime Text theme and a syntax color scheme. It was origi
 
 ![image](screenshots/screenshot.png)
 
-[View a larger screenshot](https://raw.github.com/jamiewilson/predawn/master/screenshots/screenshot.png)
+[View a larger screenshot](https://raw.github.com/douglas/postdawn/master/screenshots/screenshot_new.png)
 
 ## Installation for [Sublime Text](https://sublime.wbond.net/packages/Postdawn)
 
