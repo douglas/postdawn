@@ -470,11 +470,10 @@
         "settings": ["postdawn_sidebar_medium"],
         "row_padding": [25, 4]
     },
-
     {
         "class": "sidebar_tree",
         "settings": ["postdawn_sidebar_large"],
-        "row_padding": [30, 6]
+        "row_padding": [25, 5]
     },
     {
         "class": "sidebar_tree",
@@ -508,8 +507,24 @@
     {
         "class": "sidebar_label",
         "settings": ["postdawn_sidebar_label_bigger"],
-        "font.size" : 14
+        "font.size" : 13
     },
+    {
+        "class": "sidebar_label",
+        "settings": ["postdawn_sidebar_font_hack"],
+        "font.face": "Hack"
+    },
+    {
+        "class": "sidebar_label",
+        "settings": ["postdawn_sidebar_font_menlo"],
+        "font.face": "Menlo"
+    },
+    {
+        "class": "sidebar_label",
+        "settings": ["postdawn_sidebar_font_fira"],
+        "font.face": "Fira Mono"
+    },
+
         // Sidebar folder entry
     {
         "class": "sidebar_label",
